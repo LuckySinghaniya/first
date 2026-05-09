@@ -1,3 +1,4 @@
 # first
-this is my first github repository
-Author- lucky singhaniyua
+this is my first github repository.
+<br>
+Author- lucky singhaniya
