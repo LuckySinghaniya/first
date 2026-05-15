@@ -1,4 +1,4 @@
 # first
 this is my first github repository.
 <br>
-Author- lucky singhaniya
+Author- the lucky singhaniya
